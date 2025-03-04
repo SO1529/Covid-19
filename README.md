@@ -3,7 +3,7 @@
 ## Overview
 This project explores the analysis of large-scale COVID-19 epidemiological data using various data science techniques, focusing on frequent pattern mining, contrast pattern mining, and K-Means clustering. The goal is to uncover significant insights regarding the spread, impact, and trends of COVID-19 based on demographic factors like gender, age, and state.
 
-## 🔗 Dataset
+## Dataset
 The dataset used in this project is a mixture of multiple COVID-19 datasets sourced from Kaggle. It contains information such as:
 - `submission_date`
 - `total_cases`
@@ -37,7 +37,7 @@ Several interactive and static visualizations were created to analyze COVID-19 t
 - **Gender vs. Total Cases**: Scatter plots depicting the relationship between gender and COVID-19 cases.
 - **Heatmap of Correlations**: Correlation matrices to study the relationships between key variables such as age, deaths, and population.
 
-## ⚙Methodology
+## Methodology
 1. **Data Preprocessing**: Cleaning and transforming data for analysis, including encoding categorical data and scaling numeric data.
 2. **Clustering & Pattern Mining**: Applying machine learning algorithms (K-Means, Apriori) to detect patterns and clusters within the data.
 3. **Analysis & Evaluation**: Generating meaningful insights from the processed data and visualizing them to aid researchers and policymakers in decision-making.
