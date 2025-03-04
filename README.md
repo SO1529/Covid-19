@@ -21,12 +21,12 @@ The dataset used in this project is a mixture of multiple COVID-19 datasets sour
 - **Contrast Pattern Mining**: Identifying differences between datasets to understand various groups' behavior.
 - **K-Means Clustering**: Grouping data points based on features like age, population, and gender to identify trends.
 
-### Model Approach
+## Model Approach
 1. **Frequent Pattern Mining**: Detect recurring relationships or patterns within data.
 2. **Contrast Pattern Mining**: Compare patterns in different datasets to discover anomalies.
 3. **K-Means Clustering**: Group similar data points together for better insight into data characteristics.
 
-## 🛠Tools & Libraries
+## Tools & Libraries
 - **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, MLxtend, Altair
 - **Data Preprocessing**: Missing data handling, scaling, encoding categorical variables.
 
